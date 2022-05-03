@@ -51,13 +51,13 @@ a {
 .cloud {
   position: absolute;
   top: 180px;
-  left: 400px;
+  left: 30%;
 }
 
 .sun-cloud {
   position: absolute;
   top: 10px;
-  right: 400px;
+  right: 30%;
 }
 
 .programmer {
@@ -113,7 +113,7 @@ hr {
 .btn {
   background: #2259c7;
   background-image: linear-gradient(to bottom, #2259c7, #2980b9);
-  padding: 10px 20px 10px 20px;
+  padding: 0.5% 0.8%;
   border-radius: 8px;
   color: #DBE6FD;
 }
@@ -125,4 +125,5 @@ hr {
 
 .footer-link {
   margin: 20px;
+  font-size: 0.9rem;
 }
